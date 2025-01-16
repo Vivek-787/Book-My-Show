@@ -1,2 +1,1 @@
-"# BookMyShow" 
-"# Book-My-Show" 
+# BookMyShow 
